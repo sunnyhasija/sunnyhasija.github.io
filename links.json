@@ -1,58 +1,22 @@
 [
   {
     "name": "index",
-    "url": "https://tusharsadhwani.dev"
+    "url": "https://www.abhinavhasija.com"
   },
   {
     "name": "404",
-    "url": "https://tusharsadhwani.dev"
-  },
-  {
-    "name": "cv",
-    "url": "https://drive.google.com/file/d/1t2n49gVf_iTUWqxItM9YEXhERol_mssb/view?usp=drivesdk"
+    "url": "https://www.abhinavhasija.com"
   },
   {
     "name": "gh",
-    "url": "https://github.com/tusharsadhwani"
+    "url": "https://github.com/sunnyhasija"
+  },
+ {
+    "name": "posts",
+    "url": "www.abhinavhasija.com/posts"
   },
   {
     "name": "gr",
-    "url": "https://github.com/tusharsadhwani?tab=repositories"
-  },
-  {
-    "name": "ls",
-    "url": "https://github.com/tusharsadhwani/url-shortener/edit/master/links.json"
-  },
-  {
-    "name": "medium",
-    "url": "https://medium.com/@tushar.sadhwani000"
-  },
-  {
-    "name": "o",
-    "url": "https://streamelements.com/dashboard/overlays"
-  },
-  {
-    "name": "post",
-    "url": "https://dev.to/tusharsadhwani/how-i-made-my-own-url-shortener-for-free-293p"
-  },
-  {
-    "name": "t",
-    "url": "https://github.com/tusharsadhwani/t"
-  },
-  {
-    "name": "tv",
-    "url": "https://twitch.tv/drunktimelord"
-  },
-  {
-    "name": "tc",
-    "url": "https://www.twitch.tv/popout/drunktimelord/chat?popout"
-  },
-  {
-    "name": "tr",
-    "url": "https://github.com/tusharsadhwani/twitch"
-  },
-  {
-    "name": "whywindows",
-    "url": "https://dev.to/daksh777/why-linux-is-not-for-everyone-my-linux-experiences-2lj3"
+    "url": "https://github.com/sunnyhasija?tab=repositories"
   }
 ]
